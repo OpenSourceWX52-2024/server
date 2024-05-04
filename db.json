@@ -31,59 +31,6 @@
       "lastName": "Jackson",
       "email": "janetjackson@example.com",
       "password": "1Janet56"
-    },
-    {
-      "id": "5",
-      "username": "teacher-three",
-      "firstName": "Luck",
-      "lastName": "Bream",
-      "email": "luckbream@example.com",
-      "password": "12Luck6"
-    },
-    {
-      "id": "6",
-      "username": "student-three",
-      "firstName": "Karl",
-      "lastName": "Dean",
-      "email": "karldean@example.com",
-      "password": "1Dean456"
-    },
-    {
-      "id": "0",
-      "username": "miguel",
-      "firstName": "Joe",
-      "lastName": "Jota",
-      "email": "asdasd@gmail.com",
-      "password": "miguel123"
-    },
-    {
-      "id": "8",
-      "username": "angel",
-      "firstName": "Joe",
-      "lastName": "Jota",
-      "email": "dsd@gmail.com",
-      "password": "miguel123"
-    },
-    {
-      "id": "9",
-      "username": "asd",
-      "firstName": "Joe",
-      "lastName": "Jota",
-      "email": "asd",
-      "password": "asd"
-    },
-    {
-      "id": "10",
-      "firstName": "Joe",
-      "lastName": "Jota"
-    },
-    {
-      "id": "11",
-      "username": "asd",
-      "firstName": "Joe",
-      "lastName": "Jota",
-      "email": "asd",
-      "password": "asd"
     }
   ],
   "students": [
@@ -98,20 +45,6 @@
     {
       "id": "3",
       "userId": 6
-    }
-  ],
-  "teachers": [
-    {
-      "id": "1",
-      "userId": 1
-    },
-    {
-      "id": "2",
-      "userId": 3
-    },
-    {
-      "id": "3",
-      "userId": 5
     }
   ],
   "games": [
@@ -155,51 +88,4 @@
       "description": "¡Bienvenido a 'Versusmatic', donde los números se convierten en poderosos aliados en batallas épicas! En este emocionante juego multijugador, podrás entrenar a tus MathMons, criaturas mágicas que representan diferentes conceptos matemáticos, como sumas, restas, multiplicaciones y divisiones. Desafía a otros jugadores a duelos donde el conocimiento matemático y la estrategia son clave para la victoria. ¡Conviértete en el Maestro MathMon y demuestra que eres el mejor en batallas donde la mente es tu mayor arma!"
     }
   ],
-  "categories": [
-    {
-      "id": "1",
-      "gameId": 2,
-      "name": "Aritmética"
-    },
-    {
-      "id": "2",
-      "gameId": 3,
-      "name": "Algebra"
-    },
-    {
-      "id": "3",
-      "gameId": 1,
-      "name": "Geometría"
-    }
-  ],
-  "tags": [
-    {
-      "id": "1",
-      "name": "Fractions"
-    },
-    {
-      "id": "2",
-      "name": "Free"
-    },
-    {
-      "id": "3",
-      "name": "Singleplayer"
-    }
-  ],
-  "gameProgress": [
-    {
-      "id": "1",
-      "studentId": 2,
-      "gameId": 1,
-      "progress": "50%",
-      "lastPlayed": "2024-05-12"
-    },
-    {
-      "id": "2",
-      "studentId": 1,
-      "gameId": 2,
-      "progress": "75%",
-      "lastPlayed": "2023-05-06"
-    }
-  ]
 }
